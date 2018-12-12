@@ -1,0 +1,22 @@
+{
+  "name": "uwebsockets",
+  "version": "1.0.0",
+  "description": "**µWebSockets.js** is a JavaScript platform, runtime and web server.",
+  "main": "dist/uws.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berpj/uWebSockets.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berpj/uWebSockets.js/issues"
+  },
+  "homepage": "https://github.com/berpj/uWebSockets.js#readme"
+}
